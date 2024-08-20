@@ -1,4 +1,4 @@
-const math = require('../math')
+const math = require('../math');
 
 
 test('soma 2 + 3 igual a 5', () => { 
